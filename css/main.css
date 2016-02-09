@@ -52,12 +52,13 @@
 }
 
 .balon2{
-        position: relative; 
-        left: 250px;
-        top: 120px;
+        position: absolute; 
+        left: 450px;
+        top: 70px;
 }
 
 .balon3{
        position: absolute; 
-       margin-left:200px;
+       left: 660px;
+        top: 260px;
 }
