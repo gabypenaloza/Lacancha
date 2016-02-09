@@ -1,0 +1,63 @@
+/* Inserta tu CSS aqui */
+.pasto {
+    width: 850px;
+    height: 400px;
+    background: #67AF56;  
+    position: absolute;
+   margin-left: 80px;
+}
+
+.cancha{
+       width: 770px;
+       height: 320px;
+       border:1px solid white;
+       position: relative;
+       margin-top: 40px;
+       left:40px;       
+}
+
+.porteria1{
+	      width: 120px;
+	      height: 160px;
+	      border:1px solid white;
+	      position:absolute;
+	      bottom:120px;
+	      margin-left:40px;
+}
+
+.porteria2{
+	      width: 120px;
+	      height: 160px;
+	      border:1px solid white;
+	      position:absolute;
+	      bottom:120px;
+	      margin-left:690px;
+}
+
+.centro{
+       width: 160px;
+       height: 160px;
+       border-radius: 50%;
+       border:1px solid white;
+       position:absolute;
+	   bottom:120px;
+	   margin-left:350px;
+}
+
+.balon1{
+	   position: absolute;
+	   left: 150px;
+       top: 120px;
+       
+}
+
+.balon2{
+        position: relative; 
+        left: 250px;
+        top: 120px;
+}
+
+.balon3{
+       position: absolute; 
+       margin-left:200px;
+}
